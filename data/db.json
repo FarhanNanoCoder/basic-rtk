@@ -1,14 +1,6 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Jack"
-    },
-    {
-      "id": 2,
-      "name": "John"
-    },
-    {
       "id": 3,
       "name": "Mike"
     },
@@ -35,6 +27,10 @@
     {
       "name": "aaaaa",
       "id": 9
+    },
+    {
+      "name": "farhan",
+      "id": 10
     }
   ]
 }
